@@ -9,3 +9,9 @@
 <a href="https://osu.ppy.sh/users/13705417" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/2048px-Osu%21_Logo_2016.svg.png" alt="RafGPio" height="30" width="30" /></a>
 
 My biggest inspiration are [RedcXca](https://x.com/redcxca)
+
+
+Visitor Count
+
+![View counter](https://count.getloli.com/@RafGPio_github?name=RafGPio_github&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
