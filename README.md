@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/@rafgpio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="RafGPio" height="30" width="40" /></a>
 <a href="https://osu.ppy.sh/users/13705417" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/2048px-Osu%21_Logo_2016.svg.png" alt="RafGPio" height="30" width="30" /></a>
 
-My biggest inspiration are [RedcXca](https://x.com/redcxca)
+My biggest inspiration is [RedcXca](https://x.com/redcxca)
 
 
 Visitor Count
